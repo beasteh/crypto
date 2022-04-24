@@ -2,8 +2,8 @@
 
 ## At a Glance
 * Consumer friendly onboarding.
-* Fast, high-capacity & low-fee, relative to peers.
-* DPoS & reasonably decentralized.
+* Fast, high-capacity and low-fee, relative to peers.
+* DPoS and reasonably decentralized.
 
 ## Tokens
 * **WAXP** - Protocol token.
@@ -31,25 +31,26 @@ Sources: [EOSAuthority](https://eosauthority.com/?network=wax), [Blockivity](htt
 
 ## Material Partnerships
 * **Funko** - A global brand with regular NFT collections on WAX. Rare NFTs entitle owners to unique real-world toys. [Source](https://funko.droppp.io/)
-* **AMC & Sony** - First 86k consumers to purchase a cinema ticket (US only) were awarded a WAX NFT. [Source](https://www.pcmag.com/news/amc-and-sony-are-giving-away-spider-man-nfts)
+* **AMC and Sony** - First 86k consumers to purchase a cinema ticket (US only) were awarded a WAX NFT. [Source](https://www.pcmag.com/news/amc-and-sony-are-giving-away-spider-man-nfts)
 * **Mattel** - Similar to Funko, Hotwheels NFTs are on WAX, with unique real-world collectibles. [Source](https://licensinginternational.org/news/mattel-partners-with-wax-to-release-hot-wheels-nft-garage-series-1/)
-* **Hasbro** - Power Rangers NFTs. [Source](https://corporate.hasbro.com/en-us/articles/hasbro_makes_nft_debut_with_power_rangers_collection_on_wax)
+* **Hasbro** - Power Ranger NFTs. [Source](https://corporate.hasbro.com/en-us/articles/hasbro_makes_nft_debut_with_power_rangers_collection_on_wax)
 * **Capcom** - Street Fighter NFTs with crafting mini-game. [Source](https://medium.com/wax-io/street-fighter-v-back-on-wax-77f92f420170)
 
 ## Noteworthy Features
 * **Largest NFT Drop** - 10 million wallet celebration event saw 10 million NFTs minted. [Source](https://decrypt.co/90781/wax-give-10-million-free-nfts-largest-ever-nft-drop)
 * **Cloud Wallet** - The WAX Cloud Wallet is a custodial, non-tech friendly solution (perfect for gamers), designed to reduce onboarding friction. Users can create a blockchain address ('accounts' on EOSIO) with social logins and purchase crypto with standard credit cards from within the wallet. Non-custodial accounts are also available on WAX. [Source](https://wallet.wax.io/)
-* **WAX IP** - WAX filed thousands of blockchain technology patents prior to the NFT boom. The concept of linking real-world merchandise to NFTs was invented and patented by WAX, they call this concept 'vIRLs'. These patents are expected to be enforced when it is most effective to do so. [Source](https://twitter.com/wax_io/status/1417242848555057160?s=28&t=B2iTWBCxkrl6yZjr6NSHDA), [Patents](https://patents.justia.com/inventor/jonathan-yantis)
+* **WAX IP** - WAX filed thousands of blockchain technology patents prior to the NFT boom. The concept of linking real-world merchandise to NFTs was invented and patented by WAX, they call this concept 'vIRLs'. These patents are expected to be enforced when it is most effective to do so. [Source](https://twitter.com/wax_io/status/1417242848555057160?s=28andt=B2iTWBCxkrl6yZjr6NSHDA), [Patents](https://patents.justia.com/inventor/jonathan-yantis)
 * **Games** - Alien Worlds (TLM token), Farmers World (FWW, FWG, FWF tokens), Blockchain Brawlers (BRWL) and Splinterlands (NFT only) are market leading P2E projects on WAX.
 * **NFTs** - The [Atomic Assets](https://github.com/pinknetworkx/atomicassets-contract/wiki) token standard is highly regarded solution for NFT creation. It enables NFT staking, burning, backing, and many other modern NFT features. Media for WAX NFTs can be pinned to decentralised storage layers. Many of the NFT creation tools on WAX automatically pin to IPFS.
 
 ## Future Targets
-* **Gaming** - WAX is focusing efforts on creating high quality gaming experiences. The first game, Blockchain Brawlers demonstrates a stable & lucrative economy, despite having virtually zero gameplay. WAX is reportedly working on 2 additional game projects.
+* **Gaming** - WAX is focusing efforts on creating high quality gaming experiences. The first game, Blockchain Brawlers demonstrates a stable and lucrative economy, despite having virtually zero gameplay. WAX is reportedly working on 2 additional game projects.
+* **Cross-Chain** - ETH and BSC bridges have been implemented on WAX in various forms. WAX will utilise this more in the future, as a tool to bring over users from 'inferior' chains.
 * **Metaverse** - Not yet announced, there's uncertainty if this is a genuine effort or a marketing tool.
 * **EVM** - Similar to the metaverse, the development of an EVM has been reported, but there has been no development updates.
 * **Scaling** - Scaling solutions are a concern for all blockchains, due to the higher capacity, WAX have more time than others to implement a solution.
 
 ## Challenges
-* **Token Access** - WAXP is not listed on important exchanges like Coinbase & FTX. This is a priority for users, especially in the US, with limited access to Binance.
-* **Marketing** - Industry presence is low, despite the fundamental successes, consumers are relatively unaware of WAX. This is reflected in the current market cap and is a result of not prioritising marketing & PR. This has become a focus recently.
-* **Dev Tooling** - No OAuth interface for the cloud wallet & limited gaming SDKs (Unity, but no Unreal).
+* **Token Access** - WAXP is not listed on important exchanges like Coinbase and FTX. This is a priority for users, especially in the US, with limited access to Binance.
+* **Marketing** - Industry presence is low, despite the fundamental successes, consumers are relatively unaware of WAX. This is reflected in the current market cap and is a result of not prioritising marketing and PR. This has become a focus recently.
+* **Dev Tooling** - No OAuth interface for the cloud wallet and limited gaming SDKs (Unity, but no Unreal).
